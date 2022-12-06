@@ -1,6 +1,6 @@
 # 221127_SQL_Server_Adv_Sales_Analysis
 
-I'll try to analyze data from microsoft AdventureWorks sample databases.
+I'll try to analyze data from microsoft AdventureWorks sample databases using MSSQL.
 You can get the sample databases through this link :
 https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
